@@ -9,3 +9,6 @@ SimpleSSD is released under the GPLv3 license. See `LICENSE` file for details.
 
 
 # This is a ARFCR code
+simplessd/ftl/page_mapping.cc
+simplessd/ftl/common/block.cc
+simplessd/ftl/error_modeling.cc
